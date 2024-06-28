@@ -1,5 +1,5 @@
-# Waydroid Launcher - For better launching Waydroid
+# Waydroid Launcher - instaMOL fork
 
-This project sources mainly come from [ublue/bazzite](https://github.com/ublue-os/bazzite) .
+Waydroid launcher for gamescope-session-steam, intended for the Steam Deck and Windows-based handheld PCs running Linux.
 
-Mainly for better running in Steam.
+This project's sources mainly come from [ublue/bazzite](https://github.com/ublue-os/bazzite).
